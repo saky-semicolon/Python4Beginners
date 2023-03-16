@@ -9,3 +9,13 @@ z = float(4) # z will be 4.0#float() builds a float from an integer literal, a f
 print(x)
 print(y)
 print(z)
+
+"""
+If we want to specify the data type of a variable, this can be done woth casting-
+"""
+
+num1 = input("")
+
+
+
+
