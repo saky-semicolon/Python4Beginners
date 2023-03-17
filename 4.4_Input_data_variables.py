@@ -11,6 +11,6 @@ If we don't declare the variable type then it will show the variable data as a s
 If it's not string then we should declare the data type.
 """
 
-sum = int(num1) + int(num2)     # Input: 10, 20
+sum = int(num1) + int(num2)     # Input: 10, 20 
 print("The result is", sum)     # Output: 30
 
